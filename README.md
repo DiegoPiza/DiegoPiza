@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiegoPiza , I am a neuroscientist working with Dr. Julio Martinez-Trujillo at Western University in Canada,
-My project focusses on spatial navigation in 3D in freely moving marms :monkey_face: 
+My project focusses on investigating neuronal substrates of spatial cognition in 3D in freely moving marms :monkey_face: 
 - 📫 How to reach me; dbuitra2@uwo.ca
 
 <!---
